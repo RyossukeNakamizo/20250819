@@ -130,12 +130,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - 22+ years of enterprise technology experience
 - Specialized in AI-assisted development and digital transformation
 
----
-
-### 🔗 Connect
-- LinkedIn: [linkedin.com/in/ryosuke-nakamizo](https://linkedin.com/in/ryosuke-nakamizo)
-- Email: ryosuke.nakamizo@gmail.com
-
----
-
 *Built with ❤️ using AI-assisted development tools*
